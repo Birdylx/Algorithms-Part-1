@@ -1,5 +1,5 @@
 # Algorithms-Part-1
-My solutions of **algorithms part 1**, taught by princeton on [coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+My solutions for **algorithms part 1**, taught by princeton on [coursera](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
 What a tough algorithm course!!!!:zany_face::zany_face::zany_face:
 | Assignment | Description | score | 
