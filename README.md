@@ -5,7 +5,7 @@ What a tough algorithm course!!!!:zany_face::zany_face::zany_face:
 | Assignment | Description | score | 
 | :---: | :---: | :---: |
 | week1 | [percolation](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php) | 100/100 |
-| week2 |  | TD |
+| week2 | [queues](https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php) | 89/100 |
 | week3 |  | TD |
 | week4 |  | TD |
 | week5 |  | TD |
