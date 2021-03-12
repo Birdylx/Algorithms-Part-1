@@ -9,4 +9,3 @@ What a tough algorithm course!!!!:zany_face::zany_face::zany_face:
 | week3 | [collinear](https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php) | TD |
 | week4 | [8 puzzle](https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php) | TD |
 | week5 | [kd-trees](https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php) | TD |
-| week6 |  | TD |
